@@ -7,7 +7,7 @@ public class Kokeilu {
 		  Random arpa = new Random();
 		  int x = arpa.nextInt(3);
 		  int y = arpa.nextInt(3);
-      System.out.println(x + y);
+                  System.out.println(x + y);
 	  }	 
   }
 }
